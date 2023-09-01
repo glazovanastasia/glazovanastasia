@@ -6,5 +6,5 @@
 ---
 [![](https://readme-typing-svg.herokuapp.com?font=Regular+400+at+48px&pause=1000&color=36BCF7A4&width=435&lines=About+me)](https://git.io/typing-svg)
 
-    👩🏼‍💻 love QA testing
-    🐣 looking for a job
+* 👩🏼‍💻 love QA testing
+* 🐣 looking for a job
